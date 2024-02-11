@@ -1,0 +1,5 @@
+alice 21
+ryan 30
+volodymyr 33
+maks 10
+mark 6
